@@ -1,0 +1,16 @@
+# Django and PostgreSQL driver
+Django>=4.2
+psycopg2-binary
+
+# Environment variable loader
+python-decouple
+
+# Streamlit frontend
+streamlit
+
+# Data handling & visualization
+pandas
+matplotlib
+
+# Faker for mock data generation
+Faker

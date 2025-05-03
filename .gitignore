@@ -1,0 +1,22 @@
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Django local DB (if any)
+db.sqlite3
+
+# Environment variables
+.env
+
+# VS Code workspace
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# MacOS
+.DS_Store
